@@ -1,0 +1,7 @@
+[pull]
+	default = current
+[push]
+	default = current
+[user]
+	name = Sadhana
+	email = sadhana7814@gmail.com
